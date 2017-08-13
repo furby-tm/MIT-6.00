@@ -1,4 +1,4 @@
-# MIT 6.00
+# MIT 6.00 Problem Sets
 Introduction to Computer Science and Programming
 
 ## Course Description
