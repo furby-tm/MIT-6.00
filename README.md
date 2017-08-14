@@ -6,7 +6,7 @@ Here is my repo for the problem sets done in MIT 6.00, every solution here is do
 
 ##### Here is the organization of this repo:
 
-###### Assignment #0 (A very simple program: entering and printing your name) [Link](../Assignment#0)
+###### Assignment #0 (A very simple program: entering and printing your name) [Link](https://github.com/tyler-furby/MIT-6.00/tree/master/ASSIGNMENT%20%230)
 ###### Assignment #1 (Computing prime numbers, product of primes) [Link](../Assignment#1)
 
 ## Course Description
