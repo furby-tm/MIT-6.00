@@ -2,10 +2,7 @@
 # Problem Set 1
 # https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/pset1a.pdf
 # Name: Tyler Furby
-from StringIO import StringIO
 from math import sqrt
-import sys
-import io
 
 def findPrime():
     count = 1
