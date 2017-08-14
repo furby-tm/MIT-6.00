@@ -1,3 +1,4 @@
+###### Status: In session
 # Massachusetts Institute of Technology 6.00 - Introduction to Computer Science and Programming
 Here is my repo for the problem sets done in MIT 6.00, every solution here is done in Python.
 
